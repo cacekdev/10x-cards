@@ -1,4 +1,4 @@
-# 10x Astro Starter
+# 10x Cards
 
 A modern, opinionated starter template for building fast, accessible, and AI-friendly web applications.
 
@@ -11,7 +11,7 @@ A modern, opinionated starter template for building fast, accessible, and AI-fri
 
 ## Prerequisites
 
-- Node.js v22.14.0 (as specified in `.nvmrc`)
+- Node.js v22.14.0 or higher
 - npm (comes with Node.js)
 
 ## Getting Started
@@ -19,8 +19,8 @@ A modern, opinionated starter template for building fast, accessible, and AI-fri
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/przeprogramowani/10x-astro-starter.git
-cd 10x-astro-starter
+git clone https://github.com/cacekdev/10x-cards.git
+cd 10x-cards
 ```
 
 2. Install dependencies:
@@ -84,10 +84,6 @@ AI instructions for GitHub Copilot are available in `.github/copilot-instruction
 ### Windsurf
 
 The `.windsurfrules` file contains AI configuration for Windsurf.
-
-## Contributing
-
-Please follow the AI guidelines and coding practices defined in the AI configuration files when contributing to this project.
 
 ## License
 
